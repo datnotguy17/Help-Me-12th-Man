@@ -1,15 +1,15 @@
-# Help Me Bevo
+# Help Me 12th Man
 
-A extension to see the <i>infamous</i> Bevo 3rd down animation when you submit a Canvas assignment!
+A extension to see the <i>famous</i> 12th Man when you submit a Canvas assignment!
 
 Tired of being demotivated to get assignments done?
-Let Bevo take that burden away, and see his infamous 3rd down animation (the OG one) every time you submit a Canvas assignment.
+Let the 12th Man take that burden away, and see an awesome hype video every time you submit a Canvas assignment.
 
-![Extension Image](https://lh3.googleusercontent.com/nV0uRjXJ9PRps2P3YY9rYKPUT-yYxGjKgwpmO6njmjV1kXdv4rJNr6LxXtz1gRBOB1eKHVyj6CPcpI_Kf791uBfV1jw=s1280-w1280-h800)
+![Extension Image](https://img.texasmonthly.com/2016/03/AP_603734214540.jpg?auto=compress&crop=faces&fit=fit&fm=jpg&h=0&ixlib=php-3.3.1&q=45&w=1250)
 
 ## Features
 
-- See the infamous Bevo 3rd down animation every time you submit a Canvas assignment!
+- See the 12th Man every time you submit a Canvas assignment!
 - Automatic Saved Settings
 - Settings:
   - Enable/Disable Extension
@@ -53,8 +53,8 @@ These instructions are for installing via the ZIP file from the GitHub release <
 Thank you to the YikYak community for originally suggesting this idea!
 The idea originally came from YikYak, and it was upvoted a ton. I needed to work on some side projects, so it was the perfect opportunity to create an extension. Not only build my portfolio but also please the UT students (and of course for the assignment motivation).
 
-Credits to the UT media team for the animation.
+Credits to the Texas A&M media team for the animation.
 
 Thank you @EthanL06 for the design of the extension popup.
 
-Hook 'em!
+Gig 'Em!
